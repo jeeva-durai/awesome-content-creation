@@ -86,6 +86,7 @@ Whether you're building a YouTube channel, growing on TikTok, writing newsletter
 - [Hootsuite](https://www.hootsuite.com/) — Enterprise social media management platform.
 - [Typefully](https://typefully.com/) — Twitter/X thread composer and scheduler with analytics.
 - [Publer](https://publer.io/) — Multi-platform scheduling with AI caption generation.
+- [JuzPost](https://www.juzpost.com/) — AI-first scheduler for 11 networks; draft and schedule posts from Claude or ChatGPT, with a free plan.
 
 ### Link-in-Bio Tools
 - [Linktree](https://linktr.ee/) — The original link-in-bio page builder.
